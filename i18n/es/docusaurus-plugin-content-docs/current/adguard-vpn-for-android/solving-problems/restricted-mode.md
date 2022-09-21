@@ -51,6 +51,6 @@ Owners of **LG** or **Samsung** phones may also encounter a similar issue. It ca
 
 - Open **Settings**;
 - Choose the **General** tab;
-- Scroll down and then press **Dual App**;
-- Remove all applications from the list;
-- Reboot your device.
+- Desplácese hacia abajo y pulse **Dual App**;
+- Eliminar todas las aplicaciones de la lista;
+- Reinicie su dispositivo.

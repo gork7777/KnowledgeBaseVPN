@@ -13,7 +13,7 @@ By default, AdGuard VPN for Mac uses the standard logging level, that is, the ba
 
 2. Click **Support** (in the menu above) → **Report a bug**.
 
-3. In the opened form, enter your email address for feedback and describe the error found, including the time when this error occurred. If you can't reproduce the problem, specify as accurately as possible when it last occurred.
+3. En el formulario abierto, introduzca su dirección de correo electrónico para recibir comentarios y describa el error encontrado, incluyendo la hora en que se produjo. Si no puede reproducir el problema, especifique con la mayor precisión posible cuándo ocurrió por última vez.
 
 4. There is a check mark next to the **Attach technical logs**, which means that when you send a report, you also send logs.
 > If for some reason it is more convenient for you to send us logs in another way, you can export them yourself. To do this, select **Settings** → **General** → **Export logs** in the **Actions** section on the right.
